@@ -25,7 +25,7 @@ export default ()=> {
       </p>
       <LazyImg w="320px" h="568px" src={pictring3}/>
       <p>上传图片的最大值|图片压缩质量|是否可拖拽|缩略图容器宽度等，这些都可以在实例化时候传入参数设置，详细代码使用方式请关注github，试试看吧～</p>
-      <PopLink href="https://github.com/ArthurYung/PicTring"/>
+      <PopLink href="https://github.com/wmqy/PicTring"/>
     </article>
   )
 }

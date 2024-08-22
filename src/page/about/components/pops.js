@@ -37,8 +37,8 @@ export function Mail(){
       <div className={Css.img}>
         <img src={aboutImg.imail} alt=""/>
       </div> 
-      <h3>arthur.ou@foxmail.com</h3>
-      <a href="mailto:arthur.ou@foxmail.com" className={Css.linkIcon}></a>
+      <h3>wx@vvb.cn</h3>
+      <a href="mailto:wx@vvb.cn" className={Css.linkIcon}></a>
     </Pop>
   )
 }
@@ -74,8 +74,8 @@ export function Git(){
       <div className={Css.img}>
         <img src={aboutImg.igit} alt=""/>
       </div> 
-      <h3>https://github.com/ArthurYung</h3>
-      <a href="https://github.com/ArthurYung" rel="external" target="_blank" className={Css.linkIcon}></a>
+      <h3>https://github.com/wmqy</h3>
+      <a href="https://github.com/wmqy" rel="external" target="_blank" className={Css.linkIcon}></a>
     </Pop>
   )
 }
@@ -92,7 +92,7 @@ export function WeiChart(){
       <div className={Css.img}>
         <img src={aboutImg.icode} alt=""/>
       </div> 
-      <h3>oyyc270079245</h3> 
+      <h3>qyqxde88</h3> 
     </Pop>
   )
 }
@@ -107,9 +107,9 @@ export function MyAdd(){
       type="wathet"
       unmove={true}
     >
-      <div className={Css.addImg}>
+      {/* <div className={Css.addImg}>
         <img src={aboutImg.iadd} alt=""/>
-      </div> 
+      </div>  */}
     </Pop>
   )
 }
@@ -120,7 +120,7 @@ export function OurLink(){
   return (
     <Pop  
       noClose={true}
-      title="Friends"
+      title="Links"
       type="pink"
       unmove={true}
     >

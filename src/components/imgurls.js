@@ -26,7 +26,7 @@ import blog from '../images/blogs.png'
 // about
 import imail from '../images/mymail.png'
 import igit from '../images/mygit.png'
-import icode from '../images/wechat.jpeg'
+import icode from '../images/wechat.jpeg' 
 import iadd from '../images/myadd.png'
 import icity from '../images/citybg.png'
 import emjz from '../images/emoji/zzz.png'

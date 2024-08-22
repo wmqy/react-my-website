@@ -43,9 +43,9 @@ export default class HomeFooter extends Component {
             <b>const</b> UseTime = {timeValue}s
           </li>
           <li>
-            <b>const</b> Add=广东省深圳市
+            <b>const</b> Add=福建省泉州市
           </li>
-          <li>WWW.BRUCEAU.COM</li>
+          <li>WWW.VVB.CN</li>
           <li>
             <a target="_blank" href="/">
               FREEDOM!
